@@ -1,5 +1,5 @@
 <?php
-include_once './DbConnect1.php';
+include_once './DbConnect.php';
 function createNewPrediction() {
          $response = array();
         $bloodgroup = $_POST["Blood_group"];
