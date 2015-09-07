@@ -1,7 +1,7 @@
 <?php
  // Database configuration
-    define('DB_USERNAME', 'a4516290_org');
-    define('DB_PASSWORD', 'org123');
-    define('DB_HOST', 'mysql8.000webhost.com');
-    define('DB_NAME', 'a4516290_org');
+    define('DB_USERNAME', 'sql689318');
+    define('DB_PASSWORD', 'mB2*sH9!');
+    define('DB_HOST', 'sql6.freemysqlhosting.net');
+    define('DB_NAME', 'sql689318');
 ?>
