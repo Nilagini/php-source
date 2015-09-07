@@ -1,7 +1,7 @@
 <?php
  // Database configuration
-    define('DB_USERNAME', 'sql689318');
-    define('DB_PASSWORD', 'mB2*sH9!');
-    define('DB_HOST', 'sql6.freemysqlhosting.net');
-    define('DB_NAME', 'sql689318');
+    define('DB_USERNAME', 'adminGR2MJpj');
+    define('DB_PASSWORD', '1ag4GNHNgL65');
+    define('DB_HOST', 'localhost');
+    define('DB_NAME', 'php');
 ?>
