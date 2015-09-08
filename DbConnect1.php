@@ -10,13 +10,13 @@ class DbConnect {
         
         $this->close();
     }
-    function connect() {        
+    function connect() {
         include_once dirname(__FILE__) . './Config1.php';
         $this->conn = mysql_connect(DB_HOST, DB_USERNAME, DB_PASSWORD) or die(mysql_error());
        // get host name, username and password from Config1.php file
-     
+
         mysql_select_db(DB_NAME) or die(mysql_error()); // get database name from Config.php
-        
+
         return $this->conn; // return connection resource
     }   
      // Close function   
